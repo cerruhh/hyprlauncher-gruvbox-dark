@@ -1,0 +1,62 @@
+{
+  "debug": {
+    "disable_auto_focus": false,
+    "enable_logging": true
+  },
+  "theme": {
+    "colors": {
+      "border": "#689d6a",
+      "item_bg": "#504945",
+      "item_bg_hover": "#665c54",
+      "item_bg_selected": "#32402f",
+      "item_description": "#a0a0a0",
+      "item_name": "#edbbb2",
+      "item_path": "#3c3836",
+      "search_bg": "#1d2021",
+      "search_bg_focused": "#a89984",
+      "search_caret": "#928374",
+      "search_text": "#fbf1c7",
+      "window_bg": "#282828"
+    },
+    "corners": {
+      "list_item": 6,
+      "search": 8,
+      "window": 12
+    },
+    "spacing": {
+      "item_margin": 2,
+      "item_padding": 4,
+      "search_margin": 12,
+      "search_padding": 12
+    },
+    "typography": {
+      "item_description_size": 12,
+      "item_name_size": 18,
+      "item_path_font_family": "monospace",
+      "item_path_size": 6,
+      "search_font_size": 20
+    }
+  },
+  "window": {
+    "anchor": "center",
+    "border_width": 2,
+    "custom_navigate_keys": {
+      "delete_word": "h",
+      "down": "j",
+      "up": "k"
+    },
+    "height": 600,
+    "margin_bottom": 0,
+    "margin_left": 0,
+    "margin_right": 0,
+    "margin_top": 0,
+    "max_entries": 50,
+    "show_border": true,
+    "show_descriptions": false,
+    "show_icons": false,
+    "show_paths": false,
+    "show_search": true,
+    "use_gtk_colors": false,
+    "width": 600
+  }
+}
